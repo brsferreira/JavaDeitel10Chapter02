@@ -9,5 +9,5 @@
 	signature “live-code approach”—rather than using code snippets, we present concepts in the
 	context of complete working programs that run on recent versions of Windows®, OS X®
 	and Linux®. Each complete code example is accompanied by live sample executions.
-	Modular Organization1
+	Modular Organization1.
 	
